@@ -1,0 +1,78 @@
+@charset "UTF-8"
+
+
+#container {
+    width: 700px;
+    margin: 0 auto;
+    background-color: #F5F0F6;
+}
+
+body{
+    font-family: 'Noto Serif', serif;
+}
+
+h2{
+    font-family: 'Supermercado One', cursive;
+    font-weight: 900;
+    font-size: 35px ;
+    color: #496e69;
+    letter-spacing:1px;
+    margin-left: 10px
+}
+
+h3{
+    font-weight: ;
+    font-size: ;
+    color: ;
+}
+p{
+    font-family: 'Noto Serif', serif;
+    color: #33333;
+    font-size: 17px;
+    font-weight: 400px;
+}
+
+.hidden{
+    display: none;
+}
+
+.dropcap{
+    font-family: 'Playfair Display', serif;
+    font-size: 100px;
+    color: #496e69;
+    font-weight: 600px;
+    font-style: italic;
+    line-height: 45px;
+    float: left;
+    margin: 5px 10px 0px 0px;
+}
+
+.floatImgLeft {
+    float: left;
+    margin-right: 20px;
+    padding:0;
+
+}
+
+figure, figcaption{
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+figcaption{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px ;
+    font-weight: 200;
+    font-style: italic;
+    letter-spacing: 1px;
+    color: #666 ;
+}
+
+.floatImgRight {
+    float: right;
+    margin-right: 20px;
+    margin-top: ;
+    padding:0;
+
+}
